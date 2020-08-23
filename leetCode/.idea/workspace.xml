@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d44bf7f-353f-4f84-b478-28b6743b11b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/judgePoint24/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/minDepth/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/updateBoard/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/huawei2021_YH/t3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/huawei2021_YH/t3/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/huaweiPrac/hj27_findBrothers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/addTwoNumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/merge/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rangeBitwiseAnd/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/out/production/nowCode/huaweiPrac/hj27_findBrothers/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/huaweiPrac/hj28_PrimePartner/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/huaweiPrac/hj31_wordsReversion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code/t1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code/t2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code/t3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code/t4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code/t5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nowCode/src/tencent2021/interview1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/interview1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nowCode/src/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nowCode/src/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2016/sudoKu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2016/sudoKu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/spiralOrder/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/spiralOrder/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/judgePoint24/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/judgePoint24/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcode/huawei2016/sudoKu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcode/huawei2016/sudoKu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spiralOrder/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spiralOrder/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="decodeString.DecodeString" />
       <module name="leetCode" />
@@ -98,38 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tencent2021Interview.Main" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tencent2021Interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="byteDance2021.t2.Main" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="byteDance2021.t2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcode.huaWeiPrac.Main" />
+      <option name="MAIN_CLASS_NAME" value="nowcode.huawei2016.sudoKu.Main" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nowcode.huaWeiPrac.*" />
+          <option name="PATTERN" value="nowcode.huawei2016.sudoKu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,6 +144,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="merge.Solution" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="merge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sortedListToBST.Solution" />
       <module name="leetCode" />
@@ -178,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.DecodeString" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -297,6 +291,8 @@
       <workItem from="1597835318600" duration="1284000" />
       <workItem from="1597923703440" duration="2871000" />
       <workItem from="1597983756942" duration="10412000" />
+      <workItem from="1598103037339" duration="1575000" />
+      <workItem from="1598111318704" duration="19557000" />
     </task>
     <servers />
   </component>
@@ -448,16 +444,11 @@
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/judgePoint24/Solution.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="48" />
+          <url>file://$PROJECT_DIR$/src/nowcode/huawei2016/sudoKu/Main.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="calculated" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

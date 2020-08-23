@@ -1,7 +1,6 @@
 package judgePoint24;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Solution {
@@ -38,9 +37,6 @@ public class Solution {
 
         for (int i = 0; i<calculated.size(); i++){
             for (int j = i+1; j<calculated.size(); j++){
-//                if (i==j){
-//                    continue;
-//                }
                 List<Float> tmp = new ArrayList<>();
                 for (int p = 0; p<calculated.size(); p++){
                     if (p !=i && p!=j)
@@ -48,39 +44,7 @@ public class Solution {
                 }
                 float op1 = calculated.get(i);
                 float op2 = calculated.get(j);
-                float res = 0;
-                //选择操作符
-//                for (int k = 0; k<4; k++){
-//                    if (ops[k] == '+'){
-//                        res = op1 + op2;
-//                        tmp.add(res);
-//                        if (backtrack(tmp, ops))
-//                            return true;
-//                        tmp.remove(tmp.size()-1);
-//                    } else if (ops[k] == '-'){
-//                        res = op1 - op2;
-//                        tmp.add(res);
-//                        if (backtrack(tmp, ops))
-//                            return true;
-//                        tmp.remove(tmp.size()-1);
-//                    } else if (ops[k] == '*'){
-//                        res = op1 * op2;
-//                        tmp.add(res);
-//                        if (backtrack(tmp, ops))
-//                            return true;
-//                        tmp.remove(tmp.size()-1);
-//                    } else {
-////                        if (op2 == 0 || op1 == 0){
-////                            continue;
-////                        }
-//                        res = op1/op2;
-//                        tmp.add(res);
-//                        if (backtrack(tmp, ops))
-//                            return true;
-//                        tmp.remove(tmp.size()-1);
-//                    }
-//                }
-                //相加
+                //float res = 0;
                 tmp.add(op1+op2);
                 if (backtrack(tmp)){
                     return true;

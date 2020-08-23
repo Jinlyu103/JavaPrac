@@ -3,6 +3,7 @@ package nowcode.huawei2016.sudoKu;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Scanner;
+import java.util.TreeSet;
 
 public class Main {
     //数独求解
@@ -12,7 +13,7 @@ public class Main {
             int[][] data = new int[9][9];
             ArrayList<HashSet<Integer>> row = new ArrayList<>();
             ArrayList<HashSet<Integer>> col = new ArrayList<>();
-            ArrayList<HashSet<Integer>> squ = new ArrayList<>(); //?
+            ArrayList<HashSet<Integer>> squ = new ArrayList<>(); //?9*9的盘面可以分为9个3*3的盘面
 
             for (int i = 0; i<9; i++){
                 row.add(new HashSet<Integer>());
@@ -26,7 +27,7 @@ public class Main {
                     if (data[i][j] !=0){
                         row.get(i).add(data[i][j]);
                         col.get(j).add(data[i][j]);
-                        squ.get(i/3 *3 + j/3).add(data[i][j]); //?
+                        squ.get(i/3 *3 + j/3).add(data[i][j]); //坐标（i，j）所处的3*3的盘面中添加数
                     }
                 }
             }
@@ -37,7 +38,7 @@ public class Main {
                     if (j!=8){
                         System.out.print(data[i][j] +" ");
                     } else
-                        System.out.println();
+                        System.out.println(data[i][j]);
                 }
             }
         }
