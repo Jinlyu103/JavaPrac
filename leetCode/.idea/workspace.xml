@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d44bf7f-353f-4f84-b478-28b6743b11b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/findItinerary/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/findSubsequences/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/judgeCircle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repeatedSubstringPattern/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/huawei2021/t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/huawei2021/t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/huawei2021/t3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/huaweiPrac/hj17_movePlace/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/huaweiPrac/hj20_validPassword/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/huaweiPrac/hj23_delChars/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/huaweiPrac/hj24_chorus/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/canVisitAllRooms/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primes_table/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseWords/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/saima/meituan2021_t2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/saima/t2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/saima/t4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shortestPalindrome/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,13 +82,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
-    <configuration name="DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decodeString.DecodeString" />
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="saima.meituan2021_t2.Main" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decodeString.*" />
+          <option name="PATTERN" value="saima.meituan2021_t2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcode.huawei2016.sudoKu.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="saima.t2.Main" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nowcode.huawei2016.sudoKu.*" />
+          <option name="PATTERN" value="saima.t2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +110,11 @@
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="judgePoint24.Solution" />
+      <option name="MAIN_CLASS_NAME" value="primes_table.Solution" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="judgePoint24.*" />
+          <option name="PATTERN" value="primes_table.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +135,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="merge.Solution" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="merge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="findSubsequences.Solution" />
       <module name="leetCode" />
@@ -165,13 +148,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shortestPalindrome.Solution" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shortestPalindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.DecodeString" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -292,6 +288,10 @@
       <workItem from="1598404508135" duration="2135000" />
       <workItem from="1598435953022" duration="5172000" />
       <workItem from="1598583605816" duration="1110000" />
+      <workItem from="1598679489320" duration="5044000" />
+      <workItem from="1598688178720" duration="8164000" />
+      <workItem from="1598841942159" duration="1105000" />
+      <workItem from="1598863799014" duration="1464000" />
     </task>
     <servers />
   </component>
@@ -446,6 +446,16 @@
           <url>file://$PROJECT_DIR$/src/nowcode/huawei2016/sudoKu/Main.java</url>
           <line>33</line>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shortestPalindrome/Solution.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/saima/meituan2021_t2/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
