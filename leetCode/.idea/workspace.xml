@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d44bf7f-353f-4f84-b478-28b6743b11b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PredictTheWinner/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binaryTreePaths/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/getPermutation/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/getPermutation/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isNumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/levelOrderBottom/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solveNQueens/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/out/production/nowCode/pdd2021/t2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/out/production/nowCode/pdd2021/t2/Main1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/baidu/t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/baidu/t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/baidu/t2/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/bilibili2019_t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/bilibili2020/t1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/bilibili2020/t2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/bilibili2020/t3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/bilibili2020/t3/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/pdd2021/t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/pdd2021/t2/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/removeCaml/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/wangyi2021/t2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code1/t1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code1/t2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -310,7 +291,7 @@
       <workItem from="1599182344392" duration="3244000" />
       <workItem from="1599205483191" duration="48000" />
       <workItem from="1599268164665" duration="7111000" />
-      <workItem from="1599359959001" duration="1064000" />
+      <workItem from="1599359959001" duration="1828000" />
     </task>
     <servers />
   </component>
