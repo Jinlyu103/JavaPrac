@@ -2,13 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d44bf7f-353f-4f84-b478-28b6743b11b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/canVisitAllRooms/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primes_table/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseWords/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/saima/meituan2021_t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/saima/t2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/saima/t4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shortestPalindrome/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PredictTheWinner/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binaryTreePaths/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/getPermutation/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/getPermutation/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isNumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/levelOrderBottom/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solveNQueens/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/out/production/nowCode/pdd2021/t2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/out/production/nowCode/pdd2021/t2/Main1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/baidu/t1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/baidu/t2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/baidu/t2/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/bilibili2019_t1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/bilibili2020/t1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/bilibili2020/t2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/bilibili2020/t3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/bilibili2020/t3/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/pdd2021/t2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/pdd2021/t2/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/removeCaml/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/wangyi2021/t2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,20 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="saima.meituan2021_t2.Main" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="saima.meituan2021_t2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution1">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="saima.t2.Main" />
       <module name="leetCode" />
@@ -135,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findSubsequences.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PredictTheWinner.Solution" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="findSubsequences.*" />
+          <option name="PATTERN" value="PredictTheWinner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +149,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shortestPalindrome.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="getPermutation.Solution" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shortestPalindrome.*" />
+          <option name="PATTERN" value="getPermutation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="getPermutation.Solution1" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="getPermutation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +305,12 @@
       <workItem from="1598679489320" duration="5044000" />
       <workItem from="1598688178720" duration="8164000" />
       <workItem from="1598841942159" duration="1105000" />
-      <workItem from="1598863799014" duration="1464000" />
+      <workItem from="1598863799014" duration="16260000" />
+      <workItem from="1599100785295" duration="3644000" />
+      <workItem from="1599182344392" duration="3244000" />
+      <workItem from="1599205483191" duration="48000" />
+      <workItem from="1599268164665" duration="7111000" />
+      <workItem from="1599359959001" duration="1064000" />
     </task>
     <servers />
   </component>
@@ -456,6 +475,21 @@
           <url>file://$PROJECT_DIR$/src/saima/meituan2021_t2/Main.java</url>
           <line>23</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PredictTheWinner/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/getPermutation/Solution.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/getPermutation/Solution1.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
