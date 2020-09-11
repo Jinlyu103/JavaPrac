@@ -2,9 +2,145 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d44bf7f-353f-4f84-b478-28b6743b11b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code1/t1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code1/t2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/combinationSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/combinationSum2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/combine/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topKFrequent/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trap/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/Alibaba2021/t1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/Alibaba2021/t2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/shenxinfu2021/t1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/shenxinfu2021/t2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/shenxinfuPrac/t1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code1/t3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code1/t4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code1/t5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/CQueue/CQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/CQueue/CQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/LFUCache/LFUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/LFUCache/LFUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/LRUCache/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/LRUCache/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/LRUCache/LRUCache1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/LRUCache/LRUCache1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/addBinary/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/addBinary/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/addStrings/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/addStrings/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/byteDance2021/t2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/byteDance2021/t2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/byteDance2021/t3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/byteDance2021/t3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/byteDance2021/t4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/byteDance2021/t4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/byteDance2021/t4/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/byteDance2021/t4/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/canFinish/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/canFinish/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/cloneGraph/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/cloneGraph/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/countAndSay/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/countAndSay/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/countBinarySubstrings/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/countBinarySubstrings/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/countSmaller/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/countSmaller/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/countSubstrings/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/countSubstrings/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/dailyTemperatures/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/dailyTemperatures/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/decodeString/DecodeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/decodeString/DecodeString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/decodeString/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/decodeString/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/decodeString/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/decodeString/Solution1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/findBestValue/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/findBestValue/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/findDuplicate/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/findDuplicate/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/findLadders/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/findLadders/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/findLength/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/findLength/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/findMedianSortedArrays/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/findMedianSortedArrays/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/findNumberIn2DArray/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/findNumberIn2DArray/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/firstMissingPositive/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/firstMissingPositive/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/flatten/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/flatten/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/floodFill/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/floodFill/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/hasPathSum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/hasPathSum/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/inputPrac/MyInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/inputPrac/MyInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/intersect/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/intersect/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/isBipartite/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/isBipartite/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/isInterleave/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/isInterleave/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/isMatch/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/isMatch/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/isPalindrome/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/isPalindrome/Solution1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/isValid/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/isValid/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/kidsWithCandies/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/kidsWithCandies/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/kthSmallest/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/kthSmallest/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/largestRectangleArea/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/largestRectangleArea/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/letterCombinations/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/letterCombinations/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/longestConsecutive/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/longestConsecutive/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/longestIncreasingPath/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/longestIncreasingPath/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/longestValidParentheses/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/longestValidParentheses/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/maxCoins/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/maxCoins/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/maxScoreSightseeingPair/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/maxScoreSightseeingPair/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/meituan2021/carArrange/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/meituan2021/carArrange/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/meituan2021/carArrange/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/meituan2021/carArrange/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/meituan2021/newRevsions/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/meituan2021/newRevsions/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/meituan2021/sendTeam/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/meituan2021/sendTeam/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/meituan2021/travelRout/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/meituan2021/travelRout/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/minWindowSubstring/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/minWindowSubstring/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/minimalSteps/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/minimalSteps/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/multiply/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/multiply/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/byteDance_travel/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/byteDance_travel/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/cacheKongLianshun/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/cacheKongLianshun/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/cacheKongLianshun/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/cacheKongLianshun/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/change/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/change/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/extractUniqNum/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/extractUniqNum/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/approximate/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/approximate/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/baseConversion/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/baseConversion/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/combineTable/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/combineTable/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/countCharNum/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/countCharNum/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj105_cntNegCalAvg/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj105_cntNegCalAvg/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj10_charNumbers/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj10_charNumbers/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj11_numberRev/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj11_numberRev/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj12_stringRev/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj12_stringRev/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj13_sentenceRev/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj13_sentenceRev/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj14_findLongestPath/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj14_findLongestPath/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj18_ipClass/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj18_ipClass/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj19_countSimpleError/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/hj19_countSimpleError/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/primeFactor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/primeFactor/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/randomNumberOfMing/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/randomNumberOfMing/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/splitStr/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huaWeiPrac/splitStr/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2016/charSet/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2016/charSet/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2016/deleteNumber/Josephus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2016/deleteNumber/Josephus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2016/deleteNumber/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2016/deleteNumber/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2016/sudoKu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2016/sudoKu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2017/baseConversion/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2017/baseConversion/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2017/bottle/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/huawei2017/bottle/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/passwordGenerated/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/passwordGenerated/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/pdd0802/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/pdd0802/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/pdd_PlantTrees/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/pdd_PlantTrees/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/quehun/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/quehun/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/robotJumping/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/robotJumping/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/nowcode/xor/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/nowcode/xor/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/palindromePairs/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/palindromePairs/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/productExceptSelf/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/productExceptSelf/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/recoverFromPreorder/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/recoverFromPreorder/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/recoverTree/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/recoverTree/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/removeDuplicateNodes/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/removeDuplicateNodes/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/removeNthFromEnd/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/removeNthFromEnd/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/respace/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/respace/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/restoreIpAddresses/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/restoreIpAddresses/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/rob/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/rob/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/saima/reverseArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/saima/reverseArray/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/saima/reverseArray/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/saima/reverseArray/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/saima/stockTrade/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/saima/stockTrade/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/saima/streetLamb/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/saima/streetLamb/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/serializeBinaryTree/Codec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/serializeBinaryTree/Codec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/smallestRange/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/smallestRange/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/solve/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/solve/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/sortedListToBST/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/sortedListToBST/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/spiralOrder/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/spiralOrder/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/subarraysDivByK/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/subarraysDivByK/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/symmetricBinaryTree/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/symmetricBinaryTree/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/threadDemo/Call.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/threadDemo/Call.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/threadDemo/Caller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/threadDemo/Caller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/threadDemo/NameList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/threadDemo/NameList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/threadDemo/NameList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/threadDemo/NameList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/threeSum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/threeSum/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/translateNum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/translateNum/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/twoSum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/twoSum/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/uniqueBinarySearchTree/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/uniqueBinarySearchTree/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/wordBreak/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/wordBreak/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/xiecheng2021/t1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/xiecheng2021/t1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/xiecheng2021/t2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/xiecheng2021/t2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/xiecheng2021/t2/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/xiecheng2021/t2/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/xiecheng2021/t2/WorkflowNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/xiecheng2021/t2/WorkflowNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getPermutation/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/getPermutation/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nowCode/src/removeCaml/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nowCode/src/removeCaml/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nowCode/src/tencent2021/code1/t1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code1/t1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nowCode/src/tencent2021/code1/t2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nowCode/src/tencent2021/code1/t2/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,26 +213,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution1">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="saima.t2.Main" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="saima.t2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primes_table.Solution" />
+      <option name="MAIN_CLASS_NAME" value="combinationSum.Solution" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="primes_table.*" />
+          <option name="PATTERN" value="combinationSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +241,11 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PredictTheWinner.Solution" />
+      <option name="MAIN_CLASS_NAME" value="combinationSum2.Solution" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PredictTheWinner.*" />
+          <option name="PATTERN" value="combinationSum2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +253,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="getPermutation.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combine.Solution" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="getPermutation.*" />
+          <option name="PATTERN" value="combine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topKFrequent.Solution" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topKFrequent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution1" />
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -292,6 +428,14 @@
       <workItem from="1599205483191" duration="48000" />
       <workItem from="1599268164665" duration="7111000" />
       <workItem from="1599359959001" duration="1828000" />
+      <workItem from="1599437591409" duration="5758000" />
+      <workItem from="1599525223688" duration="2070000" />
+      <workItem from="1599543565804" duration="1486000" />
+      <workItem from="1599562015503" duration="614000" />
+      <workItem from="1599611237179" duration="2460000" />
+      <workItem from="1599664128663" duration="125000" />
+      <workItem from="1599699419523" duration="6379000" />
+      <workItem from="1599738773190" duration="1252000" />
     </task>
     <servers />
   </component>
@@ -464,13 +608,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/getPermutation/Solution.java</url>
-          <line>53</line>
+          <line>54</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/getPermutation/Solution1.java</url>
           <line>61</line>
           <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/combine/Solution.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/combinationSum/Solution.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/combinationSum2/Solution.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

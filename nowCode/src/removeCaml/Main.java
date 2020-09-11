@@ -26,7 +26,7 @@ public class Main {
         int i = 0;
         while (i<s.length()){
             char pre = s.charAt(i);
-            boolean flag = true;
+            boolean flag = true; //标识没有出现驼峰
             int j = i+2; //判断[i,i+2]部分是否为驼峰串，若是，删除
             while (j<s.length()){
                 char nxt = s.charAt(j);

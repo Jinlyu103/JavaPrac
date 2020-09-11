@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Solution {
     /**
+     * 60. 第k个排列
      * 给出集合{1,2,3，...，n}
      * 按大小顺序排列出所有排列情况
      * @param n
